@@ -33,7 +33,7 @@
 ![image](https://github.com/Klaus-in-Tech/uipath-python/assets/31986394/aa4f31f7-b46c-412e-a297-65528e636065)
 
 ## User Manual for this demo
-For this demo, I used a python script that clears your folder downloads free feel to give it a test run.
+For this demo, I used a python script that clears your downloads folder free feel to give it a test run.
 
 ## Author
 - [Github](https://github.com/Klaus-in-Tech)
