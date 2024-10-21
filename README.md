@@ -1,7 +1,7 @@
 # Invoking Python Script in UiPath
 
 ## Prerequisities
-- Python installation **strictly** `Python 3.7` and `Python 3.8`.
+- Python installation **strictly** `Python 3.7` or `Python 3.8`.
 
 ## How to setup  in UiPath Studio
 - Install `UiPath.Python.Activities` package.
